@@ -2,7 +2,7 @@
 layout: post
 title: Build website with github page + Jekyll
 excerpt: "The blog is my experience regard to build a website with github page and Jekyll on MacOS. Inculding install ruby, Jekyll, bundler...examples for post a blog with Jekyll theme"
-categories: [education]
+categories: [guide]
 comments: true
 ---
 
